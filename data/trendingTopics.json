@@ -1,0 +1,50 @@
+[
+  {
+    "id": "trend-001",
+    "title": "How AI is changing content creation workflows",
+    "source": "quora",
+    "url": "https://www.quora.com/topic/ai-content-creation",
+    "popularity": 92,
+    "timestamp": "2025-03-06T10:15:00Z"
+  },
+  {
+    "id": "trend-002",
+    "title": "Best practices for FAQ optimization for SEO",
+    "source": "reddit",
+    "url": "https://www.reddit.com/r/SEO/comments/faq-optimization",
+    "popularity": 87,
+    "timestamp": "2025-03-06T08:45:00Z"
+  },
+  {
+    "id": "trend-003",
+    "title": "The future of automated content curation",
+    "source": "quora",
+    "url": "https://www.quora.com/topic/content-curation",
+    "popularity": 85,
+    "timestamp": "2025-03-06T12:30:00Z"
+  },
+  {
+    "id": "trend-004",
+    "title": "How to use AI to improve your content marketing strategy",
+    "source": "reddit",
+    "url": "https://www.reddit.com/r/contentmarketing/comments/ai-content-strategy",
+    "popularity": 78,
+    "timestamp": "2025-03-06T09:20:00Z"
+  },
+  {
+    "id": "trend-005",
+    "title": "Techniques for generating high-quality FAQs automatically",
+    "source": "quora",
+    "url": "https://www.quora.com/topic/faq-generation",
+    "popularity": 75,
+    "timestamp": "2025-03-05T16:45:00Z"
+  },
+  {
+    "id": "trend-006",
+    "title": "The impact of personalized content on conversion rates",
+    "source": "reddit",
+    "url": "https://www.reddit.com/r/marketing/comments/personalized-content-conversion",
+    "popularity": 73,
+    "timestamp": "2025-03-05T14:10:00Z"
+  }
+]

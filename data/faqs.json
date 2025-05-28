@@ -1,0 +1,50 @@
+[
+  {
+    "id": "faq-001",
+    "question": "What is content optimization?",
+    "answer": "Content optimization is the process of ensuring digital content is created and formatted to reach the largest possible target audience. It involves making content high quality, relevant, and valuable, while also technically optimizing it for search engines.",
+    "blogPostId": "blog-001",
+    "createdAt": "2025-02-15T14:30:00Z",
+    "updatedAt": "2025-02-15T14:30:00Z"
+  },
+  {
+    "id": "faq-002",
+    "question": "Why is keyword research important for content optimization?",
+    "answer": "Keyword research is important because it helps identify words and phrases your target audience is searching for, allowing you to create content that addresses their needs. This helps your content rank higher in search results and ensures it's relevant to your audience.",
+    "blogPostId": "blog-001",
+    "createdAt": "2025-02-15T14:35:00Z",
+    "updatedAt": "2025-02-15T14:35:00Z"
+  },
+  {
+    "id": "faq-003",
+    "question": "How does AI enhance content creation?",
+    "answer": "AI enhances content creation through natural language processing tools that analyze content, identify patterns, and generate new content. It also improves content optimization by analyzing user behavior and performance data, and enables personalized content experiences tailored to individual users.",
+    "blogPostId": "blog-002",
+    "createdAt": "2025-03-01T13:15:00Z",
+    "updatedAt": "2025-03-01T13:15:00Z"
+  },
+  {
+    "id": "faq-004",
+    "question": "Is AI replacing human content creators?",
+    "answer": "No, AI is not replacing human content creators but augmenting their capabilities. The best content strategies combine the efficiency and data-driven insights of AI with the creativity and emotional intelligence of human creators.",
+    "blogPostId": "blog-002",
+    "createdAt": "2025-03-01T13:20:00Z",
+    "updatedAt": "2025-03-01T13:20:00Z"
+  },
+  {
+    "id": "faq-005",
+    "question": "How do I create an effective FAQ section?",
+    "answer": "Create an effective FAQ section by identifying actual frequently asked questions, providing clear and concise answers, organizing questions logically, and keeping the section updated as products, services, or policies change.",
+    "blogPostId": "blog-003",
+    "createdAt": "2025-03-05T15:10:00Z",
+    "updatedAt": "2025-03-05T15:10:00Z"
+  },
+  {
+    "id": "faq-006",
+    "question": "Why are FAQ sections important for websites?",
+    "answer": "FAQ sections are important because they provide users with quick access to information, reduce customer service inquiries, improve user experience, increase trust, and enhance SEO.",
+    "blogPostId": "blog-003",
+    "createdAt": "2025-03-05T15:15:00Z",
+    "updatedAt": "2025-03-05T15:15:00Z"
+  }
+]
